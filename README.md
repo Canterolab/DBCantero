@@ -107,11 +107,6 @@ I'm currently expanding my stack with **C# and .NET**, **Python**, and **Artific
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=DBCantero&show_icons=true&theme=transparent&hide_border=true&title_color=00A0FF&icon_color=00A0FF&text_color=ffffff"
-    height="165"
-    alt="GitHub statistics"
-  />
-  <img
     src="https://streak-stats.demolab.com?user=DBCantero&theme=transparent&hide_border=true&ring=00A0FF&fire=00A0FF&currStreakLabel=00A0FF&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff"
     height="165"
     alt="GitHub contribution streak"
